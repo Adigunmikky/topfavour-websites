@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Topfavour Nigeria Enterprise</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f9f9f9; color: #333; }
+    header { background: #006400; color: white; padding: 20px; text-align: center; }
+    nav { background: #004d00; padding: 10px; text-align: center; }
+    nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+    section { padding: 40px 20px; max-width: 1000px; margin: auto; }
+    h2 { color: #006400; }
+    .property-card { border: 1px solid #ccc; border-radius: 8px; padding: 15px; margin-bottom: 20px; background: white; }
+    footer { background: #333; color: white; text-align: center; padding: 20px; }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="Topfavour Logo" width="100">
+    <h1>Topfavour Nigeria Enterprise</h1>
+    <p>RC:803860 | Real Estate You Can Trust</p>
+  </header>
+
+  <nav>
+    <a href="#about">About Us</a>
+    <a href="#services">Services</a>
+    <a href="#listings">Listings</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Topfavour Nigeria Enterprise is a trusted name in real estate, based in Ibadan. We specialize in property sales, development, and land acquisition. Our mission is to deliver value and excellence in every transaction.</p>
+    <p><strong>CEO:</strong> Ogunsanya Temitope</p>
+  </section>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Property Sales</li>
+      <li>Land Acquisition</li>
+      <li>Real Estate Development</li>
+    </ul>
+  </section>
+
+  <section id="listings">
+    <h2>Featured Listings</h2>
+    <div class="property-card">
+      <h3>4-Bedroom Duplex – New Felele Extension, Soka</h3>
+      <p>Spacious and elegant duplex with boys' quarters in a prime location. Price: ₦65 million</p>
+    </div>
+    <div class="property-card">
+      <h3>Plots of Land – Apata, Ibadan</h3>
+      <p>Secure and affordable plots with genuine documentation. Price: ₦5 million per plot</p>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p><strong>Address:</strong> 22, Alexander Road, Abaeleshin, Kuola, Apata, Ibadan, Oyo State</p>
+    <p><strong>Phone:</strong> 08031165972, 09028017143</p>
+    <p><strong>WhatsApp:</strong> <a href="https://wa.me/2348031165972" target="_blank">Chat with us</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Topfavour Nigeria Enterprise. All rights reserved.</p>
+  </footer>
+</body>
+</html>
